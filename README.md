@@ -36,4 +36,5 @@ Day to day git commands
 * `git diff branch1..branch2` : used to show file differences between two branches
 * `git commit --amend or git commit --amend --no-edit` : Adding more changes to your last commit
 * `git push -f origin some_branch` - force push changes
-* `git rebase master` - rebase current checkout branch to local master 
+* `git rebase master` - rebase current checkout branch to local master
+* 'git update-index --assume-unchanged <file name>' - git ommit checking it for changes and presumes that the file has not been changed.
