@@ -38,3 +38,4 @@ Day to day git commands
 * `git push -f origin some_branch` - force push changes
 * `git rebase master` - rebase current checkout branch to local master
 * `git update-index --assume-unchanged <file name>` - git ommit checking it for changes and presumes that the file has not been changed.
+* `git checkout <filename>` - Discard changes of a specific file.
